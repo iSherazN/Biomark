@@ -18,7 +18,7 @@
 ## 🚀 Demo
 
 Try the live demo here:  
-👉 [https://your-demo-link.com](https://your-demo-link.com) *(replace with your live URL)*
+👉 https://isherazn.github.io/Biomark/
 
 ---
 
