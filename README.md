@@ -1,6 +1,6 @@
-# 🔐 FingerPrintica
+# 🔐 Biomark
 
-**FingerPrintica** is a simple, static web app that demonstrates how to use built-in biometric fingerprint authentication using the WebAuthn API. It works on devices with platform authenticators such as fingerprint sensors, Face ID, or Windows Hello.
+**Biomark** is a simple, static web app that demonstrates how to use built-in biometric fingerprint authentication using the WebAuthn API. It works on devices with platform authenticators such as fingerprint sensors, Face ID, or Windows Hello.
 
 > 💡 Requires HTTPS and a supported browser.
 
@@ -17,16 +17,16 @@
 
 ## 🚀 Demo
 
-You can try the live demo here:  
-👉 [https://your-demo-link.com](https://your-demo-link.com) *(replace with actual URL)*
+Try the live demo here:  
+👉 [https://your-demo-link.com](https://your-demo-link.com) *(replace with your live URL)*
 
 ---
 
 ## 🖥️ Requirements
 
-- A device with a biometric sensor (fingerprint, Face ID, Windows Hello)
+- A device with a biometric sensor (fingerprint, Face ID, Windows Hello, etc.)
 - Modern browser (Chrome, Edge, Safari, Firefox)
-- HTTPS environment
+- HTTPS connection or localhost
 
 > ⚠️ WebAuthn requires a secure context (HTTPS or `localhost`).
 
